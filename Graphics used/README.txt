@@ -1,0 +1,1 @@
+This folder isn't used by the program and can be deleted.
